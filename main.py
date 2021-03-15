@@ -1,5 +1,5 @@
 import math
-import time
+
 from tkinter import *
 # ---------------------------- CONSTANTS ------------------------------- #
 PINK = "#e2979c"
